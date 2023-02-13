@@ -21,5 +21,5 @@ catkin_package(
     gazebo_ros 
     hector_gazebo_plugins
   DEPENDS 
-    gazebo
+    GAZEBO
 )
